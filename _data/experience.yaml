@@ -1,0 +1,41 @@
+experiences:
+# - place: "MIT-IBM Watson AI Lab"
+#   time: "May. 2023 - Aug. 2023"
+#   title: "Research Intern"
+#   subtitle: "Self-Alignment of LLMs for Specialization"
+#   category: "work"
+
+# - place: "Georgia Tech"
+#   time: "Aug. 2022 - Present"
+#   title: "Ph.D. in Computer Science"
+#   category: "school"
+
+- place: "Linq"
+  time: "Sep. 2023 - Present"
+  title: "Research Intern"
+  subtitle: "project focused on enhancing Chain-of-Thought prompting"
+  category: "research"
+
+- place: "University of British Columbia"
+  time: "Jan. 2023 - April. 2023"
+  title: "Exchange Student in Computer Science"
+  # subtitle: "IR&NLP Lab"
+  category: "school"
+
+- place: "CySec Lab @Yonsei"
+  time: "Jun. 2021 - Aug. 2021"
+  title: "Undergraduate Research Assistant"
+  # subtitle: "Compulsory military service"
+  category: "research"
+
+- place: "ESOL"
+  time: "Jun. 2021 - Jan. 2022"
+  title: "R&D Center, Intern"
+  # subtitle: "Compulsory military service"
+  category: "work"
+
+- place: "Yonsei University"
+  time: "Mar. 2019 - Present"
+  title: "B.S. in Computer Science"
+  # subtitle: "<i>Summa Cum Laude</i>"
+  category: "school"

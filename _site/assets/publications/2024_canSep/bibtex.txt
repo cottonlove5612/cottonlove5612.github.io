@@ -1,0 +1,8 @@
+@misc{park2024separators,
+      title={Can Separators Improve Chain-of-Thought Prompting?}, 
+      author={Yoonjeong Park and Hyunjin Kim and Chanyeol Choi and Junseong Kim and Jy-yong Sohn},
+      year={2024},
+      eprint={2402.10645},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
